@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-batch-file-upload" />
+        <module name="hibernate-entity-manager-project" />
+        <module name="spring-batch-demo" />
+        <module name="spring-boot-new-batch-project" />
+        <module name="spring-boot-hibernate-entity-project" />
+        <module name="spring-boot-hibernate-rest-api-project" />
+        <module name="spring-boot-batch-mysql-project" />
+        <module name="db_to_csv" />
+        <module name="spring-batch" />
+        <module name="spring-batch-faulttolerance" />
+        <module name="spring-batch-partitioning" />
+        <module name="spring-batch-example" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="spring-batch-example-tasklet.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="0" target="17" />
+      <module name="batch-processing-demo" target="17" />
+      <module name="batch-processing-demo (1) (com.batch.processing.demo)" target="17" />
+      <module name="batch-processing-demo (2) (com.javatechie)" target="1.8" />
+      <module name="spring-batch-example (1)" target="1.8" />
+      <module name="spring-batch-example (2)" target="1.8" />
+      <module name="spring-batch-example (3)" target="1.8" />
+      <module name="spring-batch-processing-demo" target="17" />
+      <module name="SpringBootBatchTasklet" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="0" options="-parameters" />
+      <module name="SpringBootBatchTasklet" options="-parameters" />
+      <module name="batch-processing-demo" options="-parameters" />
+      <module name="batch-processing-demo (1) (com.batch.processing.demo)" options="-parameters" />
+      <module name="batch-processing-demo (2) (com.javatechie)" options="-parameters" />
+      <module name="db_to_csv" options="-parameters" />
+      <module name="spring-batch" options="-parameters" />
+      <module name="spring-batch-demo" options="-parameters" />
+      <module name="spring-batch-example" options="-parameters" />
+      <module name="spring-batch-example (1)" options="-parameters" />
+      <module name="spring-batch-example (2)" options="-parameters" />
+      <module name="spring-batch-example (3)" options="-parameters" />
+      <module name="spring-batch-faulttolerance" options="-parameters" />
+      <module name="spring-batch-file-upload" options="-parameters" />
+      <module name="spring-batch-partitioning" options="-parameters" />
+      <module name="spring-batch-processing-demo" options="-parameters" />
+      <module name="spring-boot-batch-mysql-project" options="-parameters" />
+      <module name="spring-boot-hibernate-entity-project" options="-parameters" />
+      <module name="spring-boot-hibernate-rest-api-project" options="-parameters" />
+      <module name="spring-boot-new-batch-project" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+com/javatechie/spring/batch/SpringBatchExampleApplication.class
+com/javatechie/spring/batch/config/SpringBatchConfig.class
+com/javatechie/spring/batch/config/CustomerItemWriter.class
+com/javatechie/spring/batch/controller/BatchJobController.class
+com/javatechie/spring/batch/config/CustomerProcessor.class
+com/javatechie/spring/batch/entity/Customer.class
+com/javatechie/spring/batch/listener/StepSkipListener.class
+com/javatechie/spring/batch/config/ExceptionSkipPolicy.class
+com/javatechie/spring/batch/repository/CustomerRepository.class
+com/javatechie/spring/batch/config/JobCompletionNotificationListener.class

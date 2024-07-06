@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DB_To_CSV_SpringBatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DB_To_CSV_SpringBatch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootBatchTasklet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootBatchTasklet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/batch-processing-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-entity-manager-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-entity-manager-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-3.0/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-3.0/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-faulttolerance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-file-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-partitioning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-batch-processing-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-batch-mysql-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-batch-mysql-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hibernate-entity-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hibernate-rest-api-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hibernate-rest-api-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-new-batch-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-new-batch-project/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
